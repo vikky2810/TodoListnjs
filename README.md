@@ -19,8 +19,8 @@ Before you start, make sure you have [Node.js](https://nodejs.org/) installed on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/vikky2810/TodoListnjs.git
+   cd TodoListnjs
    ```
 2. Install the dependencies (we promise there aren’t that many, just a couple of cool libraries to make your life easier):
    ```bash
